@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## Name:N.NAVYA SREE
-## REG NO:212223040181
+## REG NO:212223040138
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
